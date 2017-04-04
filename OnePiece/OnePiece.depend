@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1390155473 source:c:\users\michael\desktop\c++\Ασκήσεις 2013-2014\4347_4549_4981\planetexploration\header.cpp
+	"header.h"
+
+1421614422 
+
+1389981276 c:\users\michael\desktop\c++\Ασκήσεις 2013-2014\4347_4549_4981\planetexploration\header.h
+	<iostream>
+	<iomanip>
+	<locale>
+	<sstream>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<cmath>
+	<conio.h>
+	<exception>
+	<ctype.h>
+
+1390155395 source:c:\users\michael\desktop\c++\Ασκήσεις 2013-2014\4347_4549_4981\planetexploration\main.cpp
+	"header.h"
+
+1390155473 source:c:\users\michael\documents\{ceid}\c++\Ασκήσεις 2013-2014\4347_4549_4981\planetexploration\header.cpp
+	"header.h"
+
+1389981276 c:\users\michael\documents\{ceid}\c++\Ασκήσεις 2013-2014\4347_4549_4981\planetexploration\header.h
+	<iostream>
+	<iomanip>
+	<locale>
+	<sstream>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<cmath>
+	<conio.h>
+	<exception>
+	<ctype.h>
+
+1390155395 source:c:\users\michael\documents\{ceid}\c++\Ασκήσεις 2013-2014\4347_4549_4981\planetexploration\main.cpp
+	"header.h"
+
+1418740751 source:c:\users\michael\documents\{ceid}\c++ - Οντοκεντρικός Προγραμματισμός ΙΙ\Ασκήσεις 2013-2014\4347_4549_4981\planetexploration\header.cpp
+	"header.h"
+
+1389981276 c:\users\michael\documents\{ceid}\c++ - Οντοκεντρικός Προγραμματισμός ΙΙ\Ασκήσεις 2013-2014\4347_4549_4981\planetexploration\header.h
+	<iostream>
+	<iomanip>
+	<locale>
+	<sstream>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<cmath>
+	<conio.h>
+	<exception>
+	<ctype.h>
+
+1390155395 source:c:\users\michael\documents\{ceid}\c++ - Οντοκεντρικός Προγραμματισμός ΙΙ\Ασκήσεις 2013-2014\4347_4549_4981\planetexploration\main.cpp
+	"header.h"
+
+1421616061 source:c:\users\michael\desktop\planetexploration\header.cpp
+	"header.h"
+
+1421614422 c:\users\michael\desktop\planetexploration\header.h
+	<iostream>
+	<iomanip>
+	<locale>
+	<sstream>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<cmath>
+	<conio.h>
+	<exception>
+	<ctype.h>
+
+1421614011 source:c:\users\michael\desktop\planetexploration\main.cpp
+	"header.h"
+
+1421617416 source:/home/giou/Downloads/5169_5204_5622/OnePiece/header.cpp
+	"header.h"
+
+1421614424 /home/giou/Downloads/5169_5204_5622/OnePiece/header.h
+	<iostream>
+	<iomanip>
+	<locale>
+	<sstream>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<cmath>
+	<conio.h>
+	<exception>
+	<ctype.h>
+
+1421614012 source:/home/giou/Downloads/5169_5204_5622/OnePiece/main.cpp
+	"header.h"
+
+1421617416 source:/home/giou/Dropbox/C++/5169_5204_5622/OnePiece/header.cpp
+	"header.h"
+
+1421614424 /home/giou/Dropbox/C++/5169_5204_5622/OnePiece/header.h
+	<iostream>
+	<iomanip>
+	<locale>
+	<sstream>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<cmath>
+	<conio.h>
+	<exception>
+	<ctype.h>
+
+1421614012 source:/home/giou/Dropbox/C++/5169_5204_5622/OnePiece/main.cpp
+	"header.h"
+
